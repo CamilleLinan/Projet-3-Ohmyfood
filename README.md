@@ -1,9 +1,7 @@
 # Ohmyfood
 
-Add Operation
+Add Restaurants
 
---> Ajout de la section OPERATION
++ Ajout de la section RESTAURANTS
 
---> Ajout de favicon
-
---> Ajout de version responsive pour la section OPERATION
++ Ajout de quelques animations
