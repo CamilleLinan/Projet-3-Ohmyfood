@@ -2,8 +2,4 @@
 
 Add Operation
 
---> Ajout de la section OPERATION
-
---> Ajout de favicon
-
---> Ajout de version responsive pour la section OPERATION
+--> Ajout de la premiere page de menu en deks, tablette, et mobile
